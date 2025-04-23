@@ -92,9 +92,9 @@ Nella sezione **Fasce orarie di apertura** rimuovere la spunta per il giorno e l
 
 |
 
-..note:: Le configurazioni vengono inviate a determinati orari ovvero alle 4:00, 9:00, 15:00 e 19:00. Quindi se ad esempio si modifica la configurazione alle 11:00, la modifica sarà inviata e quindi attiva a partire dalle 15:00.
+.. note:: Le configurazioni, sia se modificate in modalità multipla o singola, vengono inviate a determinati orari ovvero alle 4:00, 9:00, 15:00 e 19:00. Quindi se ad esempio si modifica la configurazione alle 11:00, la modifica sarà inviata e quindi attiva a partire dalle 15:00.
 
-.. warning:: ATTENZIONE!!! Ricordarsi, terminato il priodo in cui è necessario chiudere i contenitori, di riaprili tornando sulla stessa schermata e aggiungendo nuovamente la spunta!
+.. warning:: ATTENZIONE!!! Ricordarsi, terminato il periodo in cui è necessario chiudere i contenitori, di riaprili tornando sulla stessa schermata e aggiungendo nuovamente la spunta!
 
 
 
