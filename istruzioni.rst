@@ -4,80 +4,59 @@
 Istruzioni
 ==================
 
-Questa mappa web consente di inviare in modo automatico ad Assistenza Territorio una richiesta di estrazione di utenze in caso di installazione di un nuovo ecopunto.
-Per inoltrare la richiesta è necessario seguire le istruzioni che seguono.
+Di seguito viene descritta la procedura per la chiusura dei singoli contenitori con controllo remoto.
 
-.. note:: Per utilizzare questo strumento è necessario fare il login con le credenziali del computer (esempio --> user: Marzocchi password:*inserire la propria password*)
+Per prima cosa è necessario accedere al portale https://swm.idea-sws.com/ utilizando le proprie credenziali. Nella pagina di Login è richiesto, oltre ad utente e password, anche l'Account ID ovvero **Amiu Genova**
+
+.. note:: Qualora fosse necessario richiedere un nuovo utente o seguire il reset della password, scrivere ad assterritorio@amiu.genova.it
+
+.. image:: img/login.png
+    :align: center
 
 ..
     this is a section
 
-DISEGNA AREA
+LISTA ELETTRONICHE
 ------------------------------------------
 
-1. per prima cosa è ncessario disegnare l'area, per la quale estrarre le utenze, tramite lo strumento di disegno online (riquadro rosso nell'immagine sotto).
-Per qggiungere un'area bisogna cliccare sul tasto **Aggiungi** evidenziato in giallo nell'immagine sotto.
+Una volta eseguito l'accesso al portale, andare su **LISTA ELETTRONICHE** dal menù sulla sinistra dello schermo.
 
-.. image:: img/tool.png
+.. image:: img/lista.png
     :align: center
 
 |
 
-Cliccare sulla mappa con il tasto sinistro del mouse per disegnare l'area, ad ogni click del mouse verrà aggiunto un vertice. Con il doppio click del mouse verrà terminato il disegno.
-Una volta terminato il disegno l'area diventa blu con i vertici indicati da un cerchio arancione (si veda immagine sotto).  E' ovviamente possibile modificare l'area appena disegnata cliccando con il tasto sinistro del mouse su un vertice (o su un punto medio del segmento) e tenedno premuto trascinare il vertice nella posizione desiderata.
+Qui sono elencati tutti i contenitori attualmente dislocati sul territorio. E' possibile fare filtri per selezionare i contenitori di proprio interesse.
+Cliccando sul pulsante **Filtri** (indicato dal rettangolo rosso in alto a destra nella figura di seguito) si apre un pannello sulla destra dello schermo da cui è possibile impostare i filtri, ad esempio per indirizzo. 
+Una volta im postati i parametri del filtro, cliccando sul pulsante **Filtra** (indicato dal rettangolo verde nella figura di seguito), verranno elencati solo i contenitori che soddisfano il filtro.
 
-.. warning:: NON è possibile cancellare un'area! Qualora fosse necessario, contattare Assistenza Territorio.
-
-.. image:: img/end_area.png
+.. image:: img/filtro.png
     :align: center
 
 |
 
-COMPILA INFORMAZIONI
+MODIFICA CONFIGURAZIONE
 ------------------------------------------
 
-2. terminato il disegno dell'area è necessario aggiungere un nome che identifichi l'ecopunto, come l'indirizzo (vedi immagine sotto). L'utente viene compilato automaticamente e non può essere modificato.
-
-Se l'area disegnata e il nome inserito sono definitivi, è possible cliccare sulla casella **Invia richiesta ad ASS Territorio**. In questo modo, una volta salvata l'area, verrà inviata una mail con la richiesta.
-Se invece l'area non è ancora definitiva, è possibile salvare l'area senza inviare la richiesta e modificarla successivamente.
-
-.. image:: img/info.png
-    :align: center
-
-|
-
-SALVATAGGIO
-------------------------------------------
-
-3. per salvare l'area e le relative informazioni (nome, utente ed eventuale invio) è necessario cliccare su **Salva** (tasto evidenziato in giallo nell'immagine sotto)
-
-.. image:: img/salva.png
-    :align: center
-
-|
-
-.. note:: Si ricorda che se è stata spuntata la casella **Invia richiesta ad ASS Territorio**, la richiesta verrà automaticamente inviata.
-
-.. warning:: Una volta inviata la richiesta non è possibile annullarla, in questo caso contattare Assistenza Territorio.
-
-MODIFICHE
-------------------------------------------
-
-E' possibile modificare l'area o le informazioni associate (nome ed eventuale invio) anche dopo aver salvato. E' sufficiente cliccare con il tasto sinistro del mouse sull'area che si vuole modificare, premere il tasto evidenziato nell'immagine sotto e si attiverà nuovamente lo strumento di disegno.
-In questo modo è possibile modificare sia il disegno che le informazioni come il nome o spuntare la casella **Invia richiesta ad ASS Territorio** qualora non fosse già stata spuntata.
+Ottenuto l'elenco dei contenitori di proprio interesse è possibile modificare la configurazione di ciascuno cliccando sul pulsante corrispondente con l'icona della matita (indicato dal cerchio arancione nella figura di seguito)
 
 .. image:: img/modifica.png
     :align: center
 
 |
 
-BREVE VIDEO ESPLICATIVO
-------------------------------------------
+Cliccando sul pulsante si apre una schermata da cui è possibile modificare la configurazione del relativo contenitore.
 
-.. image:: img/editing.gif
+Nella sezione **Fasce orarie di apertura** rimuovere la spunta per il giorno e l'orario in cui si vuole chiudere il contenitore. Ad esempio nell'immagine sotto, il contenitore verrebbe chiuso da giovedì alle 6:00 fino a venerdì alle 20:00. Una volta definita la configurazione desiderata, cliccare su **APPLICA CONFIGURAZIONE** (indicato dal rettangolo rosso nella figura di seguito). 
+
+Le configurazioni vengono inviate a determinati orari ovvero alle 4:00, 9:00, 15:00 e 19:00. Quindi se ad esempio si modifica la configurazione alle 11:00, la modifica sarà inviata e quindi attiva a partire dalle 15:00.
+
+.. image:: img/conf.png
     :align: center
 
+|
 
+.. warning:: ATTENZIONE!!! Ricordarsi, terminato il priodo in cui è necessario chiudere i contenitori, di riaprili tornando sulla stessa schermata e aggiungendo nuovamente la spunta!
 
 
 
