@@ -27,7 +27,9 @@ Una volta eseguito l'accesso al portale, andare su **LISTA ELETTRONICHE** dal me
 |
 
 Qui sono elencati tutti i contenitori attualmente dislocati sul territorio. E' possibile fare filtri per selezionare i contenitori di proprio interesse.
+
 Cliccando sul pulsante **Filtri** (indicato dal rettangolo rosso in alto a destra nella figura di seguito) si apre un pannello sulla destra dello schermo da cui è possibile impostare i filtri, ad esempio per indirizzo. 
+
 Una volta im postati i parametri del filtro, cliccando sul pulsante **Filtra** (indicato dal rettangolo verde nella figura di seguito), verranno elencati solo i contenitori che soddisfano il filtro.
 
 .. image:: img/filtro.png
