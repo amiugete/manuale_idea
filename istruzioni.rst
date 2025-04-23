@@ -71,6 +71,9 @@ Nella sezione **Fasce orarie di apertura** rimuovere la spunta per il giorno e l
 
 |
 
+.. warning:: ATTENZIONE!!! A volte la configurazione multipla ha dato degli errori. Qualora si verificassero problemi con la configurazione multipla provare a configurare la chiusura dei contenitori agendo sulle proprietà dei singoli contenitori come descritto nel paragrafo sotto **CONFIGURAZIONE SINGOLA**
+
+
 CONFIGURAZIONE SINGOLA
 +++++++++++++++++++++++++++++++++++++++++++
 
